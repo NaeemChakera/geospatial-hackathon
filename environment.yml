@@ -1,4 +1,4 @@
-name: geo_notebook_env
+name: geospatial-python-crash-course
 channels:
   - conda-forge
   - defaults
