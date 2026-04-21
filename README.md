@@ -2,7 +2,12 @@
 The following jupyter notebooks have been adapted from the Carpentries material [Introduction to Geospatial Raster and Vector Data with Python](https://carpentries-incubator.github.io/geospatial-python/).
 
 
+
 These notebooks are designed to extend your skills through applied examples. A foundational understanding of geospatial data concepts is assumed. If you’re new to the topic, you should review Episodes 1–4 of the Carpentries lesson before working through this content.
+
+
+A [Comprehensive GIS Primer](geospatial_primer.pdf) has also been developed, featuring curated resources and further reading. In addition to the materials listed below, the following GitHub repository provides ESRI-specific guidance and tutorials:
+https://github.com/tgiles-esri/CSU-Hackathon-Esri-Resources
 
 Notebooks included
 - **usda_quickstats.ipynb** – Explore and map agricultural data using the USDA Quick Stats API
