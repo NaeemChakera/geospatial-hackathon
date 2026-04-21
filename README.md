@@ -1,4 +1,15 @@
-# Geospatial Python Crash Course – Setup Guide
+# Geospatial Python Crash Course 
+The following jupyter notebooks have been adapted from the Carpentries material [Introduction to Geospatial Raster and Vector Data with Python](https://carpentries-incubator.github.io/geospatial-python/).
+
+
+These notebooks are designed to extend your skills through applied examples. A foundational understanding of geospatial data concepts is assumed. If you’re new to the topic, you should review Episodes 1–4 of the Carpentries lesson before working through this content.
+
+Notebooks included
+- **usda_quickstats.ipynb** – Explore and map agricultural data using the USDA Quick Stats API
+- **naip.ipynb** – Access and work with NAIP imagery for analysis and model training
+- **landsat_merge.ipynb** – Merge and process Landsat imagery using averaging techniques
+
+## Setup Guide
 
 This guide walks you through setting up your local environment to run the **Geospatial Python Crash Course** repository.
 
